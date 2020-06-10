@@ -1,0 +1,38 @@
+html, body, #root, .room {
+    height: 100%;
+    margin: 0;
+    }
+    .lit {
+    background-color: white;
+    color: black;
+    }
+    .dark {
+    background-color: black;
+    color: white;
+    }
+    .buttonGreen {
+        background-color: green;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-right: 20px;
+      }
+      .buttonBlue {
+        background-color: royalblue;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .container{
+          height: 100%;
+          width: 100%;
+          text-align: center;
+      }
